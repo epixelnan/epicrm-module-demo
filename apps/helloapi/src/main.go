@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"log"
 
-	"epicmod_hello_helloapi/app"
+	"github.com/epixelnan/epicrm-module-demo/app"
 )
 
 func main() {

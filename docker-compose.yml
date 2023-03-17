@@ -1,0 +1,6 @@
+# DO NOT EDIT
+
+version: '3'
+services:
+  xepixelhello-helloapi:
+    image: 853494791452.dkr.ecr.us-east-1.amazonaws.com/epixel-retyn/epicmod_xepixelhello-helloapi

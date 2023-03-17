@@ -11,7 +11,7 @@ import (
 	"github.com/epixelnan/libepicrm/apiparts"
 )
 
-const SERVICE = "epicmod-hello-helloapi"
+const SERVICE = "xepixelhello-helloapi"
 
 type App struct {
 }

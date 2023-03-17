@@ -1,0 +1,12 @@
+{
+	"services": {
+		"xepixelhello-helloapi": {
+			"paths": [
+				{
+					"pattern": "/hello",
+					"needs_auth": false
+				}
+			]
+		}
+	}
+}
